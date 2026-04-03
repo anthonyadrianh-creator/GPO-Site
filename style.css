@@ -2843,4 +2843,8 @@ h1,h2 { font-family: var(--font-serif); }
 @media (max-width: 480px) {
   .page-hero { padding: 100px 0 52px; }
   .page-hero-content h1 { font-size: 1.65rem; }
+  .news-grid { gap: 16px; }
+  .news-card { padding: 20px 16px; }
+  .news-card h3 { font-size: 0.9rem; }
+  .news-card p { font-size: 0.8rem; }
 }
